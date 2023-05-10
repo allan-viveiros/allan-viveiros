@@ -1,51 +1,13 @@
-### Hi, I'm Allan 😁
+# Hi, I'm Allan 😁
 ![image](https://github.com/allan-viveiros/allan-viveiros/assets/52828591/d1773268-9a34-4c27-a5ca-27a6b9889116)
 I'm a proficient web developer with extensive knowledge of databases and system analysis. I'm passionate about learning and staying up-to-date with the latest technologies, and I am always eager to take on new challenges.
 
-<!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
-
-Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
-
-The best dimensions for the banner is **1280x650px**. You could also use this for social preview of your repo.
-
-I personally use [**Canva**](https://www.canva.com/) for creating the banner images. All the basic stuff is **free**(*you won't need the pro version in most cases*).
-
-There are endless badges that you could use in your projects. And they do depend on the project. Some of the ones that I commonly use in every projects are given below. 
-
-I use [**Shields IO**](https://shields.io/) for making badges. It is a simple and easy to use tool that you can use for almost all your badge cravings. -->
-
-
-<!--
-**allan-viveiros/allan-viveiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Table of contents
-
-<!-- After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
-
-Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
-
 - [About](#About)
-- [Badges](#Badges)
-- [GitHub Status](#Status)
+- [Skills](#Skills)
+- [GitHub Status](#GitHub-Status)
+- [Top Languages](#Top-Languages)
 - [Links](#Links)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Development](#development)
-- [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [License](#license)
 - [Footer](#footer)
 
 
@@ -71,12 +33,18 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 ![Tweet](https://img.shields.io/twitter/url?style=flat-square&logo=twitter&url=https%3A%2F%2Fnavendu.me%2Fnsfw-filter%2Findex.html): This is not essential but it is a cool way to let others know about your project! Clicking this button automatically opens twitter and writes a tweet about your project and link to it. All the user has to do is to click tweet. Isn't that neat? -->
 
 # About
-- 🌱 I’m currently learning:
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me:
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-# Badges
 [(Back to top)](#table-of-contents)
+
+# Skills 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" style="min-width: 100%;">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white" style="min-width: 100%;">
@@ -92,13 +60,18 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&amp;logo=github&amp;logoColor=white" style="min-width: 100%;">  
 </p>
 
-
-# GitHub Status
 [(Back to top)](#table-of-contents)
 
+
+# GitHub Status
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-viveiros&show_icons=true&theme=radical)
 
+[(Back to top)](table-of-contents)
+
+# Top Languaes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan-viveiros&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[(Back to top)](#table-of-contents)
 
 <!-- Add a demo for your project -->
 
@@ -111,7 +84,7 @@ Here is a random GIF as a placeholder.
 
 
 # Installation
-[(Back to top)](#table-of-contents)
+[(Back to top)](#Hi,-I'm-Allan-😁)
 
 <!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
 
@@ -130,6 +103,12 @@ To use this project, first clone the repo on your device using the command below
 ```git init```
 
 ```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
+
+To use this project, first clone the repo on your device using the command below:
+
+```git init```
+
+```git clone https://github.com/navendu-pottekkat/nsfw-filter.git```
 
 # Usage
 [(Back to top)](#table-of-contents)
