@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [!(https://www.canva.com/design/DAFW1Puhuqc/x1M0oGGYJv1Yw3S2Ox0i5w/view?utm)]
 
+<img src="https://www.canva.com/design/DAFW1Puhuqc/x1M0oGGYJv1Yw3S2Ox0i5w/view?utm" alt="Bear Stone Smart Home" width="200">
 
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 
@@ -55,8 +56,6 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 - 💬 Ask me about ...
 - 📫 How to reach me:
 
-
-📈 **My GitHub Stats**:
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-viveiros&show_icons=true&theme=radical)
 
