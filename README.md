@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-(https://www.canva.com/design/DAFW1Puhuqc/x1M0oGGYJv1Yw3S2Ox0i5w/view?utm)
+[!(https://www.canva.com/design/DAFW1Puhuqc/x1M0oGGYJv1Yw3S2Ox0i5w/view?utm)]
 
 
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
@@ -56,6 +56,11 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 - 📫 How to reach me:
 
 
+📈 **My GitHub Stats**:
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-viveiros&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan-viveiros&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Add a demo for your project -->
 
