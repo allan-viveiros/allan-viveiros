@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Banner](https://www.canva.com/design/DAFW1Puhuqc/V9wIC3y9vqIfsGuTZjWYmA/edit?utm_content=DAFW1Puhuqc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+[(https://www.canva.com/design/DAFW1Puhuqc/V9wIC3y9vqIfsGuTZjWYmA/edit?utm_content=DAFW1Puhuqc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 
 
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
