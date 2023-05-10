@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![image](https://github.com/allan-viveiros/allan-viveiros/assets/52828591/d1773268-9a34-4c27-a5ca-27a6b9889116)
+
+
 [!(https://www.canva.com/design/DAFW1Puhuqc/x1M0oGGYJv1Yw3S2Ox0i5w/view?utm)]
 (https://www.canva.com/design/DAFW1Puhuqc/view)
 
