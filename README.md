@@ -1,5 +1,20 @@
 ### Hi, I'm Allan 😁
+![image](https://github.com/allan-viveiros/allan-viveiros/assets/52828591/d1773268-9a34-4c27-a5ca-27a6b9889116)
 I'm a proficient web developer with extensive knowledge of databases and system analysis. I'm passionate about learning and staying up-to-date with the latest technologies, and I am always eager to take on new challenges.
+
+<!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
+
+Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
+
+The best dimensions for the banner is **1280x650px**. You could also use this for social preview of your repo.
+
+I personally use [**Canva**](https://www.canva.com/) for creating the banner images. All the basic stuff is **free**(*you won't need the pro version in most cases*).
+
+There are endless badges that you could use in your projects. And they do depend on the project. Some of the ones that I commonly use in every projects are given below. 
+
+I use [**Shields IO**](https://shields.io/) for making badges. It is a simple and easy to use tool that you can use for almost all your badge cravings. -->
+
+
 <!--
 **allan-viveiros/allan-viveiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,39 +29,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Table of contents
 
-![image](https://github.com/allan-viveiros/allan-viveiros/assets/52828591/d1773268-9a34-4c27-a5ca-27a6b9889116)
+<!-- After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
 
+Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-[!(https://www.canva.com/design/DAFW1Puhuqc/x1M0oGGYJv1Yw3S2Ox0i5w/view?utm)]
-(https://www.canva.com/design/DAFW1Puhuqc/view)
+- [GitHub Status](#Status)
+- [Badges](#Badges)
+- [Links](#Links)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Development](#development)
+- [Contribute](#contribute)
+    - [Sponsor](#sponsor)
+    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
+- [License](#license)
+- [Footer](#footer)
 
-https://www.canva.com/design/DAFW1Puhuqc/view
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFW1Puhuqc&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFW1Puhuqc&#x2F;view?utm_content=DAFW1Puhuqc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">GitHub Banner</a> by Allan Romero Souza Viveiros
-
-<img src="https://www.canva.com/design/DAFW1Puhuqc/view" alt="test1">
-
-<img src="[https://www.canva.com/design/DAFW1Puhuqc/x1M0oGGYJv1Yw3S2Ox0i5w/view?utm](https://www.canva.com/design/DAFW1Puhuqc/view)" alt="test2">
-
-<!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
-
-Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
-
-The best dimensions for the banner is **1280x650px**. You could also use this for social preview of your repo.
-
-I personally use [**Canva**](https://www.canva.com/) for creating the banner images. All the basic stuff is **free**(*you won't need the pro version in most cases*).
-
-There are endless badges that you could use in your projects. And they do depend on the project. Some of the ones that I commonly use in every projects are given below. 
-
-I use [**Shields IO**](https://shields.io/) for making badges. It is a simple and easy to use tool that you can use for almost all your badge cravings. -->
 
 <!-- Some badges that you could use -->
 
@@ -88,6 +88,9 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
+ 
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=appveyor&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
+ 
 <p>
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-viveiros&show_icons=true&theme=radical)
@@ -102,23 +105,7 @@ Here is a random GIF as a placeholder.
 
 ![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
 
-# Table of contents
 
-<!-- After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
-
-Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
-
-- [Project Title](#project-title)
-- [Demo-Preview](#demo-preview)
-- [Table of contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Development](#development)
-- [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [License](#license)
-- [Footer](#footer)
 
 # Installation
 [(Back to top)](#table-of-contents)
@@ -157,4 +144,4 @@ Leave a star in GitHub, give a clap in Medium and share this guide if you found 
 
 <!-- Add the footer here -->
 
-<!-- ![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png) -->
+![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)
