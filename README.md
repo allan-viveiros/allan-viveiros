@@ -8,122 +8,94 @@ I'm a proficient web developer with extensive knowledge of databases and system 
 - [GitHub Status](#GitHub-Status)
 - [Top Languages](#Top-Languages)
 - [Links](#Links)
-- [Footer](#footer)
 
-
-<!-- Some badges that you could use -->
-
-<!-- ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
-: This badge shows the version of the current release.
-
-![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
-: I think it is self-explanatory. This gives people an idea about how the project is being maintained.
-
-![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
-: This is a dynamic badge from [**Shields IO**](https://shields.io/) that tracks issues in your project and gets updated automatically. It gives the user an idea about the issues and they can just click the badge to view the issues.
-
-![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
-: This is also a dynamic badge that tracks pull requests. This notifies the maintainers of the project when a new pull request comes.
-
-![GitHub All Releases](https://img.shields.io/github/downloads/navendu-pottekkat/awesome-readme/total): If you are not like me and your project gets a lot of downloads(*I envy you*) then you should have a badge that shows the number of downloads! This lets others know how **Awesome** your project is and is worth contributing to.
-
-![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
-: This shows what kind of open-source license your project uses. This is good idea as it lets people know how they can use your project for themselves.
-
-![Tweet](https://img.shields.io/twitter/url?style=flat-square&logo=twitter&url=https%3A%2F%2Fnavendu.me%2Fnsfw-filter%2Findex.html): This is not essential but it is a cool way to let others know about your project! Clicking this button automatically opens twitter and writes a tweet about your project and link to it. All the user has to do is to click tweet. Isn't that neat? -->
 
 # About
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: My Message App.
+- 🌱 I’m currently learning: Next.js and TypeScript.
+- 💬 Ask me about: Anything.
+- 📫 How to reach me: viveirosallan@gmail.com
+- 😄 Pronouns: He/Him
+<!-- - 🤔 I’m looking for help with: To get a job. -->
 
 [(Back to top)](#table-of-contents)
 
 # Skills 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" style="min-width: 100%;">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white" style="min-width: 100%;">
-<img src="https://img.shields.io/badge/SASS-CC6699?style=flat&amp;logo=sass&amp;logoColor=white" style="min-width: 100%;">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&amp;logo=javascript&amp;logoColor=F7DF1E" style="min-width: 100%;">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" style="min-width: 100%;">
-<img src="https://img.shields.io/badge/REST_API-%2300E7A7?style=flat&amp;logo=postman&amp;logoColor=black" style="min-width: 100%;">
-<img src="https://img.shields.io/badge/Firebase-ffaa00?style=flat&amp;logo=Firebase&amp;logoColor=white" style="min-width: 100%;">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&amp;logo=netlify&amp;logoColor=darkblue" style="min-width: 100%;">
-<img src="https://img.shields.io/badge/canva-00C4CC?style=flat&amp;logo=canva&amp;logoColor=white" style="min-width: 100%;">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&amp;logo=Visual-Studio-Code&amp;logoColor=white" style="min-width: 100%;">
-<img src="https://img.shields.io/badge/Git-%23F05033?style=flat&amp;logo=git&amp;logoColor=white" style="min-width: 100%;">
-<img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&amp;logo=github&amp;logoColor=white" style="min-width: 100%;">  
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![REST Api](https://img.shields.io/badge/REST_API-%2300E7A7?style=flat&logo=postman&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=#FFFFFF)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
+
+
+#### Preferred Browsers
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=flat&logo=Opera&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat&logo=Microsoft-edge&logoColor=white)
+
+#### Skills in development
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
+
+<!--
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+-->
+
+#### Gaming platforms
+![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white)
+![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+
+#### Music Apps
+![Shazam](https://img.shields.io/badge/shazam-1476FE?style=flat&logo=shazam&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)
 
 [(Back to top)](#table-of-contents)
-
 
 # GitHub Status
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-viveiros&show_icons=true&theme=radical)
 
-[(Back to top)](table-of-contents)
+[(Back to top)](#table-of-contents)
 
 # Top Languaes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan-viveiros&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [(Back to top)](#table-of-contents)
 
-<!-- Add a demo for your project -->
+# Links
+<div style="display: flex; width: 50%; justify-content: space-between;">
+<a href="https://www.linkedin.com/in/viveirosallan/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"> </a> 
+<a href="https://dev-allan.ca/"> <img src="https://img.shields.io/badge/Portfolio-gray?style=flat&logo=html5&logoColor=orange"> </a> 
+<a href="https://www.instagram.com/allanromero/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white"> </a>   
+</div>
 
-<!-- After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
-
-Here is a random GIF as a placeholder.
-
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
-
-
-
-# Installation
-[(Back to top)](#Hi,-I'm-Allan-😁)
-
-<!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
-
-The first one should be how to install(how to generally use your project or set-up for editing in their machine).
-
-This should give the users a concrete idea with instructions on how they can use your project repo with all the steps.
-
-Following this steps, **they should be able to run this in their device.**
-
-A method I use is after completing the README, I go through the instructions from scratch and check if it is working. -->
-
-<!-- Here is a sample instruction:
-
-To use this project, first clone the repo on your device using the command below:
-
-```git init```
-
-```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
-
-To use this project, first clone the repo on your device using the command below:
-
-```git init```
-
-```git clone https://github.com/navendu-pottekkat/nsfw-filter.git```
-
-# Usage
+<!-- 
+<a href=""> <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"> </a> 
+  
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)
+-->
 [(Back to top)](#table-of-contents)
 
-<!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
 
-# Footer
-[(Back to top)](#table-of-contents)
-
-<!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.
-
-Let's make it an image because by now you have realised that multimedia in images == cool(*please notice the subtle programming joke). -->
-
-Leave a star in GitHub, give a clap in Medium and share this guide if you found this helpful.
-
-<!-- Add the footer here -->
-
-![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)
