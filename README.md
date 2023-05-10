@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-- [GitHub Status](#Status)
+- [About](#About)
 - [Badges](#Badges)
+- [GitHub Status](#Status)
 - [Links](#Links)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -69,29 +70,31 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 
 ![Tweet](https://img.shields.io/twitter/url?style=flat-square&logo=twitter&url=https%3A%2F%2Fnavendu.me%2Fnsfw-filter%2Findex.html): This is not essential but it is a cool way to let others know about your project! Clicking this button automatically opens twitter and writes a tweet about your project and link to it. All the user has to do is to click tweet. Isn't that neat? -->
 
-
+# About
 - 🌱 I’m currently learning:
 - 💬 Ask me about ...
 - 📫 How to reach me:
 
+# Badges
+[(Back to top)](#table-of-contents)
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/SASS-CC6699?style=plastic&amp;logo=sass&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/REST_API-%2300E7A7?style=for-the-badge&amp;logo=postman&amp;logoColor=black" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&amp;logo=Firebase&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" style="min-width: 100%;">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white" style="min-width: 100%;">
+<img src="https://img.shields.io/badge/SASS-CC6699?style=flat&amp;logo=sass&amp;logoColor=white" style="min-width: 100%;">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&amp;logo=javascript&amp;logoColor=F7DF1E" style="min-width: 100%;">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" style="min-width: 100%;">
+<img src="https://img.shields.io/badge/REST_API-%2300E7A7?style=flat&amp;logo=postman&amp;logoColor=black" style="min-width: 100%;">
+<img src="https://img.shields.io/badge/Firebase-ffaa00?style=flat&amp;logo=Firebase&amp;logoColor=white" style="min-width: 100%;">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&amp;logo=netlify&amp;logoColor=darkblue" style="min-width: 100%;">
+<img src="https://img.shields.io/badge/canva-00C4CC?style=flat&amp;logo=canva&amp;logoColor=white" style="min-width: 100%;">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&amp;logo=Visual-Studio-Code&amp;logoColor=white" style="min-width: 100%;">
+<img src="https://img.shields.io/badge/Git-%23F05033?style=flat&amp;logo=git&amp;logoColor=white" style="min-width: 100%;">
+<img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&amp;logo=github&amp;logoColor=white" style="min-width: 100%;">  
+</p>
 
-<img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
- 
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=appveyor&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
- 
-<p>
+
+# GitHub Status
+[(Back to top)](#table-of-contents)
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-viveiros&show_icons=true&theme=radical)
 
