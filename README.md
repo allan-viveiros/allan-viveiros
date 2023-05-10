@@ -16,6 +16,22 @@ I'm a proficient web developer with extensive knowledge of databases and system 
 - 💬 Ask me about: Anything.
 - 📫 How to reach me: viveirosallan@gmail.com
 - 😄 Pronouns: He/Him
+- ⚡ Another facts: 
+
+    ###### Gaming platforms
+    ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white)
+    ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white)
+    ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+
+    ###### Music Apps
+    ![Shazam](https://img.shields.io/badge/shazam-1476FE?style=flat&logo=shazam&logoColor=white)
+    ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)
+    
+    ###### Preferred Browsers
+    ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white)
+    ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)
+    ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=flat&logo=Opera&logoColor=white)
+    ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat&logo=Microsoft-edge&logoColor=white)
 <!-- - 🤔 I’m looking for help with: To get a job. -->
 
 [(Back to top)](#table-of-contents)
@@ -42,13 +58,6 @@ I'm a proficient web developer with extensive knowledge of databases and system 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
 
-
-#### Preferred Browsers
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=flat&logo=Opera&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat&logo=Microsoft-edge&logoColor=white)
-
 #### Skills in development
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
@@ -59,16 +68,6 @@ I'm a proficient web developer with extensive knowledge of databases and system 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 -->
-
-#### Gaming platforms
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white)
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-
-#### Music Apps
-![Shazam](https://img.shields.io/badge/shazam-1476FE?style=flat&logo=shazam&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)
-
 [(Back to top)](#table-of-contents)
 
 # GitHub Status
