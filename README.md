@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [!(https://www.canva.com/design/DAFW1Puhuqc/x1M0oGGYJv1Yw3S2Ox0i5w/view?utm)]
+https://www.canva.com/design/DAFW1Puhuqc/view
 
-<img src="https://www.canva.com/design/DAFW1Puhuqc/x1M0oGGYJv1Yw3S2Ox0i5w/view?utm">
+<img src="https://www.canva.com/design/DAFW1Puhuqc/view">
+
+<img src="[https://www.canva.com/design/DAFW1Puhuqc/x1M0oGGYJv1Yw3S2Ox0i5w/view?utm](https://www.canva.com/design/DAFW1Puhuqc/view)">
 
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 
