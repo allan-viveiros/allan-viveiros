@@ -75,9 +75,9 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - 📫 How to reach me:
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/SASS-CC6699?style=plastic&amp;logo=sass&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/REST_API-%2300E7A7?style=for-the-badge&amp;logo=postman&amp;logoColor=black" style="max-width: 100%;">
